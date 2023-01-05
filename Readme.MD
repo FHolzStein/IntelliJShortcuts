@@ -17,7 +17,7 @@
 
 ## Editor Shortcuts
 
-| Name                         | Shortcut  | Description                                                                                                     |
+| Name                         | Shortcut          | Description                                                                                                     |
 |------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------|
 | Select In                    | ⌥ + F1    | Allows you to select your current focus selection in e.g. the Project View                                      |
 | Run current context          | ⌃ + ⇧ + R | Runs the current context of your cursor (e.g. when your cursor is in a UnitTest it runs that test)              |
@@ -27,6 +27,7 @@
 | Extract / Introduce Function | ⌃ + ⌥ + M | Extracts the currently selected statement into a separate function                                              |
 | Navigate -> back | ⌘ + [ | Jumps to the previous position of your cursor                                              |
 | Navigate -> forward | ⌘ + ] | Jumps to the position you were at before using "Navigat->back"                                              |
+| Find usages | ⌥ + F7 | Lists all usages of your current selection (e.g. references to the current class or calls of the selected method / function |
 
 
 ## Selection and context
