@@ -24,6 +24,8 @@
 | Show Context Actions         | ⌥ + ⏎     | Provides useful context actions (e.g. adding a relevant import or spreading all parameters into separate lines) |
 | Extract / Introduce Variable | ⌃ + ⌥ + V | Extracts the currently selected statement into a variable (e.g. return value of a function call)                |
 | Extract / Introduce Function | ⌃ + ⌥ + M | Extracts the currently selected statement into a separate function                                              |
+| Navigate -> back | ⌘ + [ | Jumps to the previous position of your cursor                                              |
+| Navigate -> forward | ⌘ + ] | Jumps to the position you were at before using "Navigat->back"                                              |
 
 
 ## Selection and context
