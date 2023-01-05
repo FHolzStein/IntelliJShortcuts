@@ -22,6 +22,7 @@
 | Select In                    | ⌥ + F1    | Allows you to select your current focus selection in e.g. the Project View                                      |
 | Run current context          | ⌃ + ⇧ + R | Runs the current context of your cursor (e.g. when your cursor is in a UnitTest it runs that test)              |
 | Show Context Actions         | ⌥ + ⏎     | Provides useful context actions (e.g. adding a relevant import or spreading all parameters into separate lines) |
+| Trigger auto completion         | ⌃ + Space     | Gives suggestions to complete your current statement. Useful to explore methods provided by a class or top-level functions in your general context |
 | Extract / Introduce Variable | ⌃ + ⌥ + V | Extracts the currently selected statement into a variable (e.g. return value of a function call)                |
 | Extract / Introduce Function | ⌃ + ⌥ + M | Extracts the currently selected statement into a separate function                                              |
 | Navigate -> back | ⌘ + [ | Jumps to the previous position of your cursor                                              |
